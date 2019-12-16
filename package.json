@@ -1,0 +1,15 @@
+{
+  "name": "metascraper-opengraph",
+  "version": "1.0.0",
+  "description": "Rule bundle for metascraper to extract opengraph metatags as is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "opengraph",
+    "metascraper"
+  ],
+  "author": "Luis Freire",
+  "license": "ISC"
+}
